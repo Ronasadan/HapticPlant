@@ -15,10 +15,6 @@ Using haptic responses including touch and audiovisual sensations through retrac
 
 However, what is the cost of establishing empathy with an anthropomorphically designed synthetic (non)living organism and what are the consequences of these human-centered power dynamics? Either quickly or slowly, the running electrical currents will eventually kill the plant by stemming it from operating on its own homeostasis, a natural system the organism itself is “familiar” of. Without a proper balance and inclusive consideration towards (non)living entities, our humanly efforts to empathize with the unfamiliar have the potentials to eventually harm an otherwise self-sustaining system.What does this say about our perception and reaction towards the unfamiliar, the alien, the unidentified visitor? Do we need to modify ourselves to become more accustomed to defamiliarization or do we adjust our surroundings to become more familiar and cater to our expectations? How does this affect the way we socialize and build empathic relationships with each other? 
 
-![Figure Images](https://github.com/friak/HapticPlant/blob/master/HapPlant_fig1.png)
-![Figure Images](https://github.com/friak/HapticPlant/blob/master/HapPlant.gif)
-
-Figure: The Photocell sensors (a), piezo elements (b), and soil moisture sensor (c) are connected by wires (d) to the arduino (g) within the planter. They relay input values, and depending on those values when an individual interacts with the plant (shown in animation aboce), the motors (e) vibrate in response to the photocell sensors and soil moisture sensor and the servos (f) respond to the piezo elements.
 
 
 ## Team Members:
@@ -39,6 +35,13 @@ Figure: The Photocell sensors (a), piezo elements (b), and soil moisture sensor 
 * 1 Hole puncher
 * 1 Glue gun
 * 2 inches of Plastic tubing
+
+## Figure:
+
+![Figure Images](https://github.com/friak/HapticPlant/blob/master/HapPlant_fig1.png)
+![Figure Images](https://github.com/friak/HapticPlant/blob/master/HapPlant.gif)
+
+Figure: The Photocell sensors (a), piezo elements (b), and soil moisture sensor (c) are connected by wires (d) to the arduino (g) within the planter. They relay input values, and depending on those values when an individual interacts with the plant (shown in animation aboce), the motors (e) vibrate in response to the photocell sensors and soil moisture sensor and the servos (f) respond to the piezo elements.
 
 ## Process:
 
