@@ -1,7 +1,8 @@
 # HapticPlant
 Project for Haptic Interfaces with Prof. Daniel Leithinger
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHNi0WVeAYM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/307101132" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/307101132">Haptic plant</a> from <a href="https://vimeo.com/user59998704">Farjana Khan</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Project Description:
 
