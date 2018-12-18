@@ -1,7 +1,7 @@
 # HapticPlant
 Project for Haptic Interfaces with Prof. Daniel Leithinger
 
-[Video here](https://vimeo.com/307101132">Haptic plant)
+[Video here](https://vimeo.com/307101132)
 
 ## Project Description:
 
