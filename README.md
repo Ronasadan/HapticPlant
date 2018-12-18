@@ -36,7 +36,12 @@ However, what is the cost of establishing empathy with an anthropomorphically de
 
 ## Process:
 
-![Process Images](https://raw.githubusercontent.com/friak/HapticPlant/master/process1.jpg)
+![Process Images](https://github.com/friak/HapticPlant/blob/master/process1.JPG)
+![Process Images](https://github.com/friak/HapticPlant/blob/master/process2.JPG)
+![Process Images](https://github.com/friak/HapticPlant/blob/master/process3.MOV)
+![Process Images](https://github.com/friak/HapticPlant/blob/master/process4.JPG)
+![Process Images](https://github.com/friak/HapticPlant/blob/master/process5.JPG)
+![Process Images](https://github.com/friak/HapticPlant/blob/master/process6.JPG)
 
 ## Plant Figure
 ![Figure Images](https://raw.githubusercontent.com/friak/HapticPlant/master/process1.jpg)
