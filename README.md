@@ -44,5 +44,6 @@ However, what is the cost of establishing empathy with an anthropomorphically de
 ![Process Images](https://github.com/friak/HapticPlant/blob/master/process6.jpg)
 
 ## Plant Figure
-![Figure Images](https://raw.githubusercontent.com/friak/HapticPlant/master/process1.jpg)
+![Figure Images](https://github.com/friak/HapticPlant/blob/master/HapPlant_fig1.png)
+![Figure Images](https://github.com/friak/HapticPlant/blob/master/HapPlant.gif)
 Figure: The input devices keyboard (a), mouse (b), and digital pen (c) are wirelessly connected to a PC (d) under the table. The PCs graphics card outputs are connected to an LCD display (e) and a ceiling-mounted projector (f).
