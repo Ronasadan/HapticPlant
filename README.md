@@ -18,6 +18,8 @@ However, what is the cost of establishing empathy with an anthropomorphically de
 ![Figure Images](https://github.com/friak/HapticPlant/blob/master/HapPlant_fig1.png)
 ![Figure Images](https://github.com/friak/HapticPlant/blob/master/HapPlant.gif)
 
+Figure: The Photocell sensors (a), piezo elements (b), and soil moisture sensor (c) are connected by wires (d) to the arduino (g) within the planter. They relay input values, and depending on those values when an individual interacts with the plant (shown in animation aboce), the motors (e) vibrate in response to the photocell sensors and soil moisture sensor and the servos (f) respond to the piezo elements.
+
 
 ## Team Members:
 
